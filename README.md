@@ -7,4 +7,4 @@ Password criteria
 
 The interface is simple and easy to use
 
-![This is an image]()
+![Picture of ]
